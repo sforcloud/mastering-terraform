@@ -1,0 +1,14 @@
+- What is Terraform - IAC
+- what files we use in terraform 
+     - All files will have .tf extension 
+- what are providers in terraform
+     - Platform in which we provision resources 
+     - AWS is a provider
+     - Azure is a provider
+     - Kubernetes is a provider 
+- what are resources
+     - vm is a resource
+     - vpc is a resource 
+     - s3 bucket is also a resource 
+- what are variable and how do we define variables 
+- what are output variables

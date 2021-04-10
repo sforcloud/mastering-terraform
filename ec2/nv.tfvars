@@ -1,0 +1,5 @@
+region_use  = "us-east-1"
+image       = "ami-0742b4e673072066f"
+size        = "t3.small"
+subnet      = "subnet-221abf13"
+zone        = "us-east-1a"
